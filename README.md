@@ -1,4 +1,4 @@
-# ninja-chat
+# dave-chat
 
 A Vue.js SPA with real-time chat function hosted on Google Firebase.
 
